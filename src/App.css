@@ -1,0 +1,14 @@
+.img{
+  width: 65%;
+  border-radius: 40%;
+  margin : 0 auto ;
+  box-shadow : 0 0 10px rgb(red, green, blue);
+  
+}
+.name{
+  color:#A0A0A0 ;
+}
+.cards{
+  display: flex;
+  align-items: center;
+}
